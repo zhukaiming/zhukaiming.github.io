@@ -32,7 +32,7 @@ body{
 }
 .content-item .panel-heading{
 	background: #fff;
-	border: none;
+	border-left: 2px solid red;
 }
 .content-item .panel-footer{
 	background: #fff;
